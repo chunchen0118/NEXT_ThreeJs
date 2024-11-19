@@ -1,0 +1,11 @@
+Model Information:
+* title:	エールストライク/GAT-X105 Aile Strike
+* source:	https://sketchfab.com/3d-models/gat-x105-aile-strike-d892fe164e60472992115bce385c68c4
+* author:	みそ太郎 (https://sketchfab.com/nama_140)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "エールストライク/GAT-X105 Aile Strike" (https://sketchfab.com/3d-models/gat-x105-aile-strike-d892fe164e60472992115bce385c68c4) by みそ太郎 (https://sketchfab.com/nama_140) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
