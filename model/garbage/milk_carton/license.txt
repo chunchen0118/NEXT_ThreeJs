@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milk carton: open
+* source:	https://sketchfab.com/3d-models/milk-carton-open-01a534b9725e43d79deae1b2c8205002
+* author:	Shawn 684 M (https://sketchfab.com/adim09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milk carton: open" (https://sketchfab.com/3d-models/milk-carton-open-01a534b9725e43d79deae1b2c8205002) by Shawn 684 M (https://sketchfab.com/adim09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

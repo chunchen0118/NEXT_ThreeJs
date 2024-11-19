@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nintendo Switch
+* source:	https://sketchfab.com/3d-models/nintendo-switch-b94e6a6a8c564fee81c2d794da6c5712
+* author:	gabrieljuan0322 (https://sketchfab.com/gabrieljuan0322)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nintendo Switch" (https://sketchfab.com/3d-models/nintendo-switch-b94e6a6a8c564fee81c2d794da6c5712) by gabrieljuan0322 (https://sketchfab.com/gabrieljuan0322) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
