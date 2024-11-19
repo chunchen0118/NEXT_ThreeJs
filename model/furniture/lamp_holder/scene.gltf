@@ -1,0 +1,264 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1025,
+      "max": [
+        0.02232000045478344,
+        0.011250000447034836,
+        0.011389999650418758
+      ],
+      "min": [
+        -0.002409999957308173,
+        -0.011239999905228615,
+        -0.011070000007748604
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12300,
+      "componentType": 5126,
+      "count": 1025,
+      "max": [
+        0.9997983574867249,
+        0.9995601177215576,
+        0.9975530505180359
+      ],
+      "min": [
+        -0.9947386980056763,
+        -0.9995559453964233,
+        -0.9975254535675049
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1025,
+      "max": [
+        1.7125300168991089,
+        2.1160900592803955
+      ],
+      "min": [
+        -1.0311299562454224,
+        -2.49288010597229
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5850,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24600,
+      "componentType": 5126,
+      "count": 1425,
+      "max": [
+        0.02232000045478344,
+        0.012470000423491001,
+        0.012380000203847885
+      ],
+      "min": [
+        -0.033560000360012054,
+        -0.012470000423491001,
+        -0.01257999986410141
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41700,
+      "componentType": 5126,
+      "count": 1425,
+      "max": [
+        1.0,
+        0.9995707273483276,
+        0.9975407123565674
+      ],
+      "min": [
+        -1.0,
+        -0.9995713233947754,
+        -0.9975420236587524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8200,
+      "componentType": 5126,
+      "count": 1425,
+      "max": [
+        1.882680058479309,
+        4.140870094299316
+      ],
+      "min": [
+        -1.1874699592590332,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 23400,
+      "componentType": 5125,
+      "count": 7920,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Juan Carlos (https://sketchfab.com/grove4069)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mignon-lamp-holder-with-e14-connection-38ac281b492b49c0be61d22d098ba156",
+      "title": "Mignon lamp holder with E14 connection."
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 55080,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19600,
+      "byteOffset": 55080,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58800,
+      "byteOffset": 74680,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 133480,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Alluminio",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.05921480597883917,
+          0.05462174521343106,
+          0.05462174521343106,
+          1.0
+        ],
+        "roughnessFactor": 0.24828506097560976
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Bachelite_bianca",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.18730945121951215
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Portalampada_mignon_E14_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Portalampada_mignon_E14_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Portalampada_mignon_E14"
+    },
+    {
+      "mesh": 0,
+      "name": "Portalampada_mignon_E14_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Portalampada_mignon_E14_1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mignon lamp holder with E14 connection.
+* source:	https://sketchfab.com/3d-models/mignon-lamp-holder-with-e14-connection-38ac281b492b49c0be61d22d098ba156
+* author:	Juan Carlos (https://sketchfab.com/grove4069)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mignon lamp holder with E14 connection." (https://sketchfab.com/3d-models/mignon-lamp-holder-with-e14-connection-38ac281b492b49c0be61d22d098ba156) by Juan Carlos (https://sketchfab.com/grove4069) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
